@@ -1,5 +1,5 @@
-<style>
-body{
-  background-image:url(mamma.jpg);
+body {
+    background-image: url("mamma.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
-</style>
